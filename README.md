@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently studying at St. Xavier's College, Maitighar, Kathmandu.
-🌱 I’m currently learning Python and Web Development.
-📫 How to reach me: twitter.com/ph_prashish
+🔭 I’m currently studying at St. Xavier's College, Maitighar, Kathmandu. <br />
+🌱 I’m currently learning Python and Web Development. <br />
+📫 How to reach me: twitter.com/ph_prashish 
 
