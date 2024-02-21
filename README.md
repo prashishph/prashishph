@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Prashish Phunyal
 
 <!--
 **prashishph/prashishph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently studying at St. Xavier's College, Maitighar, Kathmandu.
+🌱 I’m currently learning Python and Web Development.
+📫 How to reach me: twitter.com/ph_prashish
+
