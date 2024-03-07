@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##About Me
+## About Me
 🔭 I’m currently studying at St. Xavier's College, Maitighar, Kathmandu. <br />
 🌱 I’m currently learning Python and Web Development. <br />
 📫 How to reach me: twitter.com/ph_prashish 
 
-##Thank you for visiting
+## Thank you for visiting
 Thank you for checking out my GitHub profile.
 Feel free to explore my projects and reach out to collaborate or connect.
 Let's build something amazing together!
